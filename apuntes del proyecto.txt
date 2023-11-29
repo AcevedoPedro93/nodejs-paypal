@@ -1,0 +1,10 @@
+ARRANCAR PROYECTO
+npm init -y
+npm i express morgan
+npm i cors              /*dominios permitidos para solicitar datos*/
+npm i nodemon -D
+"type": "module", agregar en el package.json para evitar error de export y import
+npm i dotenv --- permite a node leer variables de entorno
+npm i axios  --- permite hacer peticiones tipo fetch
+
+214 Order
